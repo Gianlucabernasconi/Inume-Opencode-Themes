@@ -1,0 +1,221 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "plastic": "#0A0A0C",
+    "shadow": "#101014",
+    "grip": "#1A1A1E",
+    "worn": "#3E3E44",
+    "faded": "#6E6E76",
+    "sony": "#B8B8C0",
+    "triangle": "#22827C",
+    "circle": "#BC7D89",
+    "square": "#CB9AB5",
+    "cross": "#A3ABD9",
+    "success": "#4CAF50",
+    "warning": "#FF9800",
+    "error": "#BC7D89",
+    "info": "#A3ABD9"
+  },
+  "theme": {
+    "primary": {
+      "dark": "triangle",
+      "light": "#5E8E84"
+    },
+    "secondary": {
+      "dark": "cross",
+      "light": "#6E76A8"
+    },
+    "accent": {
+      "dark": "square",
+      "light": "#9B7A95"
+    },
+    "error": {
+      "dark": "circle",
+      "light": "#8C5D69"
+    },
+    "warning": {
+      "dark": "circle",
+      "light": "square"
+    },
+    "success": {
+      "dark": "success",
+      "light": "#2E7D32"
+    },
+    "info": {
+      "dark": "info",
+      "light": "#6E76A8"
+    },
+    "text": {
+      "dark": "sony",
+      "light": "plastic"
+    },
+    "textMuted": {
+      "dark": "faded",
+      "light": "worn"
+    },
+    "background": {
+      "dark": "plastic",
+      "light": "sony"
+    },
+    "backgroundPanel": {
+      "dark": "shadow",
+      "light": "#C8C8CE"
+    },
+    "backgroundElement": {
+      "dark": "grip",
+      "light": "#B0B0B8"
+    },
+    "border": {
+      "dark": "worn",
+      "light": "#9898A0"
+    },
+    "borderActive": {
+      "dark": "faded",
+      "light": "#787880"
+    },
+    "borderSubtle": {
+      "dark": "shadow",
+      "light": "#D8D8DE"
+    },
+    "diffAdded": {
+      "dark": "success",
+      "light": "success"
+    },
+    "diffRemoved": {
+      "dark": "error",
+      "light": "error"
+    },
+    "diffContext": {
+      "dark": "faded",
+      "light": "faded"
+    },
+    "diffHunkHeader": {
+      "dark": "worn",
+      "light": "worn"
+    },
+    "diffHighlightAdded": {
+      "dark": "success",
+      "light": "success"
+    },
+    "diffHighlightRemoved": {
+      "dark": "error",
+      "light": "error"
+    },
+    "diffAddedBg": {
+      "dark": "#0D1F12",
+      "light": "#E8F5E9"
+    },
+    "diffRemovedBg": {
+      "dark": "#1F0D0D",
+      "light": "#FFEBEE"
+    },
+    "diffContextBg": {
+      "dark": "shadow",
+      "light": "#F0F0F5"
+    },
+    "diffLineNumber": {
+      "dark": "worn",
+      "light": "worn"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "#0D1F12",
+      "light": "#E8F5E9"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "#1F0D0D",
+      "light": "#FFEBEE"
+    },
+    "markdownText": {
+      "dark": "sony",
+      "light": "plastic"
+    },
+    "markdownHeading": {
+      "dark": "triangle",
+      "light": "#5E8E84"
+    },
+    "markdownLink": {
+      "dark": "cross",
+      "light": "#6E76A8"
+    },
+    "markdownLinkText": {
+      "dark": "square",
+      "light": "#9B7A95"
+    },
+    "markdownCode": {
+      "dark": "cross",
+      "light": "#6E76A8"
+    },
+    "markdownBlockQuote": {
+      "dark": "worn",
+      "light": "worn"
+    },
+    "markdownEmph": {
+      "dark": "square",
+      "light": "#9B7A95"
+    },
+    "markdownStrong": {
+      "dark": "triangle",
+      "light": "#5E8E84"
+    },
+    "markdownHorizontalRule": {
+      "dark": "worn",
+      "light": "worn"
+    },
+    "markdownListItem": {
+      "dark": "cross",
+      "light": "#6E76A8"
+    },
+    "markdownListEnumeration": {
+      "dark": "triangle",
+      "light": "#5E8E84"
+    },
+    "markdownImage": {
+      "dark": "square",
+      "light": "#9B7A95"
+    },
+    "markdownImageText": {
+      "dark": "triangle",
+      "light": "#5E8E84"
+    },
+    "markdownCodeBlock": {
+      "dark": "sony",
+      "light": "plastic"
+    },
+    "syntaxComment": {
+      "dark": "worn",
+      "light": "worn"
+    },
+    "syntaxKeyword": {
+      "dark": "circle",
+      "light": "#8C5D69"
+    },
+    "syntaxFunction": {
+      "dark": "triangle",
+      "light": "#5E8E84"
+    },
+    "syntaxVariable": {
+      "dark": "sony",
+      "light": "plastic"
+    },
+    "syntaxString": {
+      "dark": "square",
+      "light": "#9B7A95"
+    },
+    "syntaxNumber": {
+      "dark": "triangle",
+      "light": "#5E8E84"
+    },
+    "syntaxType": {
+      "dark": "cross",
+      "light": "#6E76A8"
+    },
+    "syntaxOperator": {
+      "dark": "circle",
+      "light": "#8C5D69"
+    },
+    "syntaxPunctuation": {
+      "dark": "faded",
+      "light": "faded"
+    }
+  }
+}

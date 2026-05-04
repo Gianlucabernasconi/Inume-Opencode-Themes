@@ -1,0 +1,224 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "shell": "#F0E4C8",
+    "shellTop": "#F8EED4",
+    "shellShadow": "#D3C29D",
+    "famicomRed": "#8B0014",
+    "redGloss": "#B3142A",
+    "redDeep": "#4A000B",
+    "controllerGold": "#C8B58F",
+    "metalLight": "#E1D6BF",
+    "ink": "#211C18",
+    "inkMuted": "#756B5A",
+    "buttonBlack": "#101010",
+    "buttonGray": "#3A3A36",
+    "labelRed": "#C54B40",
+    "success": "#2E7D58",
+    "warning": "#C49235",
+    "error": "#B3142A",
+    "info": "#756B5A"
+  },
+  "theme": {
+    "primary": {
+      "dark": "famicomRed",
+      "light": "famicomRed"
+    },
+    "secondary": {
+      "dark": "controllerGold",
+      "light": "controllerGold"
+    },
+    "accent": {
+      "dark": "redGloss",
+      "light": "redGloss"
+    },
+    "error": {
+      "dark": "error",
+      "light": "error"
+    },
+    "warning": {
+      "dark": "warning",
+      "light": "warning"
+    },
+    "success": {
+      "dark": "success",
+      "light": "success"
+    },
+    "info": {
+      "dark": "info",
+      "light": "info"
+    },
+    "text": {
+      "dark": "ink",
+      "light": "ink"
+    },
+    "textMuted": {
+      "dark": "inkMuted",
+      "light": "inkMuted"
+    },
+    "background": {
+      "dark": "shell",
+      "light": "shellTop"
+    },
+    "backgroundPanel": {
+      "dark": "shellTop",
+      "light": "shellTop"
+    },
+    "backgroundElement": {
+      "dark": "metalLight",
+      "light": "metalLight"
+    },
+    "border": {
+      "dark": "shellShadow",
+      "light": "shellShadow"
+    },
+    "borderActive": {
+      "dark": "famicomRed",
+      "light": "famicomRed"
+    },
+    "borderSubtle": {
+      "dark": "shellShadow",
+      "light": "shellShadow"
+    },
+    "diffAdded": {
+      "dark": "success",
+      "light": "success"
+    },
+    "diffRemoved": {
+      "dark": "error",
+      "light": "error"
+    },
+    "diffContext": {
+      "dark": "inkMuted",
+      "light": "inkMuted"
+    },
+    "diffHunkHeader": {
+      "dark": "redDeep",
+      "light": "redDeep"
+    },
+    "diffHighlightAdded": {
+      "dark": "success",
+      "light": "success"
+    },
+    "diffHighlightRemoved": {
+      "dark": "redGloss",
+      "light": "redGloss"
+    },
+    "diffAddedBg": {
+      "dark": "#D6E7D9",
+      "light": "#D6E7D9"
+    },
+    "diffRemovedBg": {
+      "dark": "#E8C9C6",
+      "light": "#E8C9C6"
+    },
+    "diffContextBg": {
+      "dark": "shellTop",
+      "light": "shellTop"
+    },
+    "diffLineNumber": {
+      "dark": "inkMuted",
+      "light": "inkMuted"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "#D6E7D9",
+      "light": "#D6E7D9"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "#E8C9C6",
+      "light": "#E8C9C6"
+    },
+    "markdownText": {
+      "dark": "ink",
+      "light": "ink"
+    },
+    "markdownHeading": {
+      "dark": "famicomRed",
+      "light": "famicomRed"
+    },
+    "markdownLink": {
+      "dark": "redGloss",
+      "light": "redGloss"
+    },
+    "markdownLinkText": {
+      "dark": "redDeep",
+      "light": "redDeep"
+    },
+    "markdownCode": {
+      "dark": "famicomRed",
+      "light": "famicomRed"
+    },
+    "markdownBlockQuote": {
+      "dark": "inkMuted",
+      "light": "inkMuted"
+    },
+    "markdownEmph": {
+      "dark": "redGloss",
+      "light": "redGloss"
+    },
+    "markdownStrong": {
+      "dark": "buttonBlack",
+      "light": "buttonBlack"
+    },
+    "markdownHorizontalRule": {
+      "dark": "shellShadow",
+      "light": "shellShadow"
+    },
+    "markdownListItem": {
+      "dark": "famicomRed",
+      "light": "famicomRed"
+    },
+    "markdownListEnumeration": {
+      "dark": "buttonBlack",
+      "light": "buttonBlack"
+    },
+    "markdownImage": {
+      "dark": "redGloss",
+      "light": "redGloss"
+    },
+    "markdownImageText": {
+      "dark": "famicomRed",
+      "light": "famicomRed"
+    },
+    "markdownCodeBlock": {
+      "dark": "ink",
+      "light": "ink"
+    },
+    "syntaxComment": {
+      "dark": "inkMuted",
+      "light": "inkMuted"
+    },
+    "syntaxKeyword": {
+      "dark": "famicomRed",
+      "light": "famicomRed"
+    },
+    "syntaxFunction": {
+      "dark": "redDeep",
+      "light": "redDeep"
+    },
+    "syntaxVariable": {
+      "dark": "ink",
+      "light": "ink"
+    },
+    "syntaxString": {
+      "dark": "labelRed",
+      "light": "labelRed"
+    },
+    "syntaxNumber": {
+      "dark": "warning",
+      "light": "warning"
+    },
+    "syntaxType": {
+      "dark": "buttonGray",
+      "light": "buttonGray"
+    },
+    "syntaxOperator": {
+      "dark": "famicomRed",
+      "light": "famicomRed"
+    },
+    "syntaxPunctuation": {
+      "dark": "inkMuted",
+      "light": "inkMuted"
+    }
+  }
+}

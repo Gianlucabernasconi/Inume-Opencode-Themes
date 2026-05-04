@@ -1,0 +1,224 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "shell": "#B8B8B0",
+    "shellTop": "#C8C8C0",
+    "shellLight": "#D8D8D0",
+    "groove": "#8E8E86",
+    "slot": "#5F5F59",
+    "print": "#242420",
+    "inkMuted": "#6D6D66",
+    "shadow": "#3A3A36",
+    "buttonBlack": "#171717",
+    "triangle": "#22827C",
+    "circle": "#BC7D89",
+    "square": "#CB9AB5",
+    "cross": "#A3ABD9",
+    "success": "#22827C",
+    "warning": "#C8A04C",
+    "error": "#BC7D89",
+    "info": "#A3ABD9"
+  },
+  "theme": {
+    "primary": {
+      "dark": "triangle",
+      "light": "triangle"
+    },
+    "secondary": {
+      "dark": "cross",
+      "light": "cross"
+    },
+    "accent": {
+      "dark": "square",
+      "light": "square"
+    },
+    "error": {
+      "dark": "circle",
+      "light": "circle"
+    },
+    "warning": {
+      "dark": "warning",
+      "light": "warning"
+    },
+    "success": {
+      "dark": "success",
+      "light": "success"
+    },
+    "info": {
+      "dark": "info",
+      "light": "info"
+    },
+    "text": {
+      "dark": "print",
+      "light": "print"
+    },
+    "textMuted": {
+      "dark": "inkMuted",
+      "light": "inkMuted"
+    },
+    "background": {
+      "dark": "shell",
+      "light": "shellLight"
+    },
+    "backgroundPanel": {
+      "dark": "shellTop",
+      "light": "shellTop"
+    },
+    "backgroundElement": {
+      "dark": "shellLight",
+      "light": "shellLight"
+    },
+    "border": {
+      "dark": "groove",
+      "light": "groove"
+    },
+    "borderActive": {
+      "dark": "buttonBlack",
+      "light": "buttonBlack"
+    },
+    "borderSubtle": {
+      "dark": "groove",
+      "light": "groove"
+    },
+    "diffAdded": {
+      "dark": "success",
+      "light": "success"
+    },
+    "diffRemoved": {
+      "dark": "error",
+      "light": "error"
+    },
+    "diffContext": {
+      "dark": "inkMuted",
+      "light": "inkMuted"
+    },
+    "diffHunkHeader": {
+      "dark": "slot",
+      "light": "slot"
+    },
+    "diffHighlightAdded": {
+      "dark": "triangle",
+      "light": "triangle"
+    },
+    "diffHighlightRemoved": {
+      "dark": "circle",
+      "light": "circle"
+    },
+    "diffAddedBg": {
+      "dark": "#A7C9B8",
+      "light": "#E4F1EA"
+    },
+    "diffRemovedBg": {
+      "dark": "#D4B0B7",
+      "light": "#F4E1E5"
+    },
+    "diffContextBg": {
+      "dark": "shellTop",
+      "light": "shellTop"
+    },
+    "diffLineNumber": {
+      "dark": "slot",
+      "light": "slot"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "#A7C9B8",
+      "light": "#E4F1EA"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "#D4B0B7",
+      "light": "#F4E1E5"
+    },
+    "markdownText": {
+      "dark": "print",
+      "light": "print"
+    },
+    "markdownHeading": {
+      "dark": "buttonBlack",
+      "light": "buttonBlack"
+    },
+    "markdownLink": {
+      "dark": "triangle",
+      "light": "triangle"
+    },
+    "markdownLinkText": {
+      "dark": "square",
+      "light": "square"
+    },
+    "markdownCode": {
+      "dark": "triangle",
+      "light": "triangle"
+    },
+    "markdownBlockQuote": {
+      "dark": "slot",
+      "light": "slot"
+    },
+    "markdownEmph": {
+      "dark": "square",
+      "light": "square"
+    },
+    "markdownStrong": {
+      "dark": "buttonBlack",
+      "light": "buttonBlack"
+    },
+    "markdownHorizontalRule": {
+      "dark": "groove",
+      "light": "groove"
+    },
+    "markdownListItem": {
+      "dark": "cross",
+      "light": "cross"
+    },
+    "markdownListEnumeration": {
+      "dark": "triangle",
+      "light": "triangle"
+    },
+    "markdownImage": {
+      "dark": "square",
+      "light": "square"
+    },
+    "markdownImageText": {
+      "dark": "triangle",
+      "light": "triangle"
+    },
+    "markdownCodeBlock": {
+      "dark": "print",
+      "light": "print"
+    },
+    "syntaxComment": {
+      "dark": "inkMuted",
+      "light": "inkMuted"
+    },
+    "syntaxKeyword": {
+      "dark": "circle",
+      "light": "circle"
+    },
+    "syntaxFunction": {
+      "dark": "triangle",
+      "light": "triangle"
+    },
+    "syntaxVariable": {
+      "dark": "print",
+      "light": "print"
+    },
+    "syntaxString": {
+      "dark": "square",
+      "light": "square"
+    },
+    "syntaxNumber": {
+      "dark": "triangle",
+      "light": "triangle"
+    },
+    "syntaxType": {
+      "dark": "cross",
+      "light": "cross"
+    },
+    "syntaxOperator": {
+      "dark": "circle",
+      "light": "circle"
+    },
+    "syntaxPunctuation": {
+      "dark": "slot",
+      "light": "slot"
+    }
+  }
+}

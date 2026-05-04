@@ -1,0 +1,225 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "dosBlack": "#000006",
+    "panelBlue": "#0000A8",
+    "panelDeep": "#000078",
+    "selectionCyan": "#00AAAA",
+    "borderCyan": "#55FFFF",
+    "textCyan": "#AAFFFF",
+    "headingYellow": "#FFFF55",
+    "keyWhite": "#FFFFFF",
+    "mutedBlue": "#55AAAA",
+    "shadowBlue": "#000040",
+    "dosRed": "#FF5555",
+    "dosGreen": "#55FF55",
+    "dosMagenta": "#FF55FF",
+    "dosGray": "#AAAAAA",
+    "success": "#55FF55",
+    "warning": "#FFFF55",
+    "error": "#FF5555",
+    "info": "#55FFFF"
+  },
+  "theme": {
+    "primary": {
+      "dark": "selectionCyan",
+      "light": "selectionCyan"
+    },
+    "secondary": {
+      "dark": "headingYellow",
+      "light": "headingYellow"
+    },
+    "accent": {
+      "dark": "borderCyan",
+      "light": "borderCyan"
+    },
+    "error": {
+      "dark": "error",
+      "light": "error"
+    },
+    "warning": {
+      "dark": "warning",
+      "light": "warning"
+    },
+    "success": {
+      "dark": "success",
+      "light": "success"
+    },
+    "info": {
+      "dark": "info",
+      "light": "info"
+    },
+    "text": {
+      "dark": "textCyan",
+      "light": "dosBlack"
+    },
+    "textMuted": {
+      "dark": "mutedBlue",
+      "light": "mutedBlue"
+    },
+    "background": {
+      "dark": "dosBlack",
+      "light": "keyWhite"
+    },
+    "backgroundPanel": {
+      "dark": "panelBlue",
+      "light": "textCyan"
+    },
+    "backgroundElement": {
+      "dark": "shadowBlue",
+      "light": "borderCyan"
+    },
+    "border": {
+      "dark": "borderCyan",
+      "light": "panelBlue"
+    },
+    "borderActive": {
+      "dark": "headingYellow",
+      "light": "headingYellow"
+    },
+    "borderSubtle": {
+      "dark": "shadowBlue",
+      "light": "mutedBlue"
+    },
+    "diffAdded": {
+      "dark": "success",
+      "light": "success"
+    },
+    "diffRemoved": {
+      "dark": "error",
+      "light": "error"
+    },
+    "diffContext": {
+      "dark": "textCyan",
+      "light": "dosBlack"
+    },
+    "diffHunkHeader": {
+      "dark": "headingYellow",
+      "light": "headingYellow"
+    },
+    "diffHighlightAdded": {
+      "dark": "dosGreen",
+      "light": "dosGreen"
+    },
+    "diffHighlightRemoved": {
+      "dark": "dosRed",
+      "light": "dosRed"
+    },
+    "diffAddedBg": {
+      "dark": "#003800",
+      "light": "#DDFBDD"
+    },
+    "diffRemovedBg": {
+      "dark": "#380000",
+      "light": "#FBDDDD"
+    },
+    "diffContextBg": {
+      "dark": "panelBlue",
+      "light": "textCyan"
+    },
+    "diffLineNumber": {
+      "dark": "dosGray",
+      "light": "dosGray"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "#003800",
+      "light": "#DDFBDD"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "#380000",
+      "light": "#FBDDDD"
+    },
+    "markdownText": {
+      "dark": "textCyan",
+      "light": "dosBlack"
+    },
+    "markdownHeading": {
+      "dark": "headingYellow",
+      "light": "headingYellow"
+    },
+    "markdownLink": {
+      "dark": "borderCyan",
+      "light": "panelBlue"
+    },
+    "markdownLinkText": {
+      "dark": "headingYellow",
+      "light": "headingYellow"
+    },
+    "markdownCode": {
+      "dark": "keyWhite",
+      "light": "dosBlack"
+    },
+    "markdownBlockQuote": {
+      "dark": "dosGray",
+      "light": "dosGray"
+    },
+    "markdownEmph": {
+      "dark": "headingYellow",
+      "light": "headingYellow"
+    },
+    "markdownStrong": {
+      "dark": "keyWhite",
+      "light": "dosBlack"
+    },
+    "markdownHorizontalRule": {
+      "dark": "borderCyan",
+      "light": "panelBlue"
+    },
+    "markdownListItem": {
+      "dark": "selectionCyan",
+      "light": "selectionCyan"
+    },
+    "markdownListEnumeration": {
+      "dark": "headingYellow",
+      "light": "headingYellow"
+    },
+    "markdownImage": {
+      "dark": "dosMagenta",
+      "light": "dosMagenta"
+    },
+    "markdownImageText": {
+      "dark": "borderCyan",
+      "light": "panelBlue"
+    },
+    "markdownCodeBlock": {
+      "dark": "textCyan",
+      "light": "dosBlack"
+    },
+    "syntaxComment": {
+      "dark": "mutedBlue",
+      "light": "mutedBlue"
+    },
+    "syntaxKeyword": {
+      "dark": "headingYellow",
+      "light": "headingYellow"
+    },
+    "syntaxFunction": {
+      "dark": "keyWhite",
+      "light": "dosBlack"
+    },
+    "syntaxVariable": {
+      "dark": "textCyan",
+      "light": "dosBlack"
+    },
+    "syntaxString": {
+      "dark": "dosGreen",
+      "light": "dosGreen"
+    },
+    "syntaxNumber": {
+      "dark": "dosMagenta",
+      "light": "dosMagenta"
+    },
+    "syntaxType": {
+      "dark": "borderCyan",
+      "light": "panelBlue"
+    },
+    "syntaxOperator": {
+      "dark": "headingYellow",
+      "light": "headingYellow"
+    },
+    "syntaxPunctuation": {
+      "dark": "dosGray",
+      "light": "dosGray"
+    }
+  }
+}

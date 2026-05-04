@@ -1,0 +1,227 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "terminalBack": "#071009",
+    "terminalGlass": "#0B160E",
+    "terminalEdge": "#12301A",
+    "terminalFrame": "#1F4B2A",
+    "terminalLine": "#183A22",
+    "crtBlack": "#050806",
+    "crtGlass": "#0B120D",
+    "crtGlow": "#16381F",
+    "phosphor": "#60FF7A",
+    "phosphorSoft": "#38C85B",
+    "phosphorDim": "#2A7C3D",
+    "scanline": "#102517",
+    "terminalBlock": "#14351D",
+    "terminalText": "#60FF7A",
+    "terminalMuted": "#2A7C3D",
+    "amberLed": "#D7A94A",
+    "error": "#C85C4A",
+    "success": "#60FF7A",
+    "warning": "#D7A94A",
+    "info": "#38C85B"
+  },
+  "theme": {
+    "primary": {
+      "dark": "phosphor",
+      "light": "phosphorSoft"
+    },
+    "secondary": {
+      "dark": "phosphorDim",
+      "light": "phosphorDim"
+    },
+    "accent": {
+      "dark": "amberLed",
+      "light": "amberLed"
+    },
+    "error": {
+      "dark": "error",
+      "light": "error"
+    },
+    "warning": {
+      "dark": "warning",
+      "light": "warning"
+    },
+    "success": {
+      "dark": "success",
+      "light": "success"
+    },
+    "info": {
+      "dark": "info",
+      "light": "info"
+    },
+    "text": {
+      "dark": "phosphor",
+      "light": "phosphor"
+    },
+    "textMuted": {
+      "dark": "phosphorDim",
+      "light": "phosphorDim"
+    },
+    "background": {
+      "dark": "crtBlack",
+      "light": "crtBlack"
+    },
+    "backgroundPanel": {
+      "dark": "crtBlack",
+      "light": "crtBlack"
+    },
+    "backgroundElement": {
+      "dark": "crtGlass",
+      "light": "crtGlass"
+    },
+    "border": {
+      "dark": "phosphorDim",
+      "light": "phosphorDim"
+    },
+    "borderActive": {
+      "dark": "phosphor",
+      "light": "phosphorSoft"
+    },
+    "borderSubtle": {
+      "dark": "scanline",
+      "light": "terminalLine"
+    },
+    "diffAdded": {
+      "dark": "success",
+      "light": "success"
+    },
+    "diffRemoved": {
+      "dark": "error",
+      "light": "error"
+    },
+    "diffContext": {
+      "dark": "phosphorDim",
+      "light": "phosphorDim"
+    },
+    "diffHunkHeader": {
+      "dark": "amberLed",
+      "light": "amberLed"
+    },
+    "diffHighlightAdded": {
+      "dark": "phosphor",
+      "light": "phosphorSoft"
+    },
+    "diffHighlightRemoved": {
+      "dark": "error",
+      "light": "error"
+    },
+    "diffAddedBg": {
+      "dark": "#0B2511",
+      "light": "#DCEADB"
+    },
+    "diffRemovedBg": {
+      "dark": "#2B0F0B",
+      "light": "#EAD8D4"
+    },
+    "diffContextBg": {
+      "dark": "crtBlack",
+      "light": "crtBlack"
+    },
+    "diffLineNumber": {
+      "dark": "phosphorDim",
+      "light": "phosphorDim"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "#0B2511",
+      "light": "#DCEADB"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "#2B0F0B",
+      "light": "#EAD8D4"
+    },
+    "markdownText": {
+      "dark": "phosphor",
+      "light": "phosphor"
+    },
+    "markdownHeading": {
+      "dark": "phosphor",
+      "light": "phosphor"
+    },
+    "markdownLink": {
+      "dark": "phosphorSoft",
+      "light": "phosphorDim"
+    },
+    "markdownLinkText": {
+      "dark": "amberLed",
+      "light": "amberLed"
+    },
+    "markdownCode": {
+      "dark": "phosphorSoft",
+      "light": "phosphorSoft"
+    },
+    "markdownBlockQuote": {
+      "dark": "phosphorDim",
+      "light": "phosphorDim"
+    },
+    "markdownEmph": {
+      "dark": "amberLed",
+      "light": "amberLed"
+    },
+    "markdownStrong": {
+      "dark": "phosphor",
+      "light": "phosphor"
+    },
+    "markdownHorizontalRule": {
+      "dark": "terminalLine",
+      "light": "terminalLine"
+    },
+    "markdownListItem": {
+      "dark": "phosphorSoft",
+      "light": "phosphorDim"
+    },
+    "markdownListEnumeration": {
+      "dark": "phosphor",
+      "light": "phosphor"
+    },
+    "markdownImage": {
+      "dark": "amberLed",
+      "light": "amberLed"
+    },
+    "markdownImageText": {
+      "dark": "phosphorSoft",
+      "light": "phosphorDim"
+    },
+    "markdownCodeBlock": {
+      "dark": "phosphor",
+      "light": "phosphor"
+    },
+    "syntaxComment": {
+      "dark": "phosphorDim",
+      "light": "phosphorDim"
+    },
+    "syntaxKeyword": {
+      "dark": "phosphor",
+      "light": "phosphorDim"
+    },
+    "syntaxFunction": {
+      "dark": "phosphorSoft",
+      "light": "phosphorSoft"
+    },
+    "syntaxVariable": {
+      "dark": "phosphor",
+      "light": "phosphor"
+    },
+    "syntaxString": {
+      "dark": "amberLed",
+      "light": "amberLed"
+    },
+    "syntaxNumber": {
+      "dark": "phosphorSoft",
+      "light": "phosphorDim"
+    },
+    "syntaxType": {
+      "dark": "phosphor",
+      "light": "phosphor"
+    },
+    "syntaxOperator": {
+      "dark": "phosphorSoft",
+      "light": "phosphorSoft"
+    },
+    "syntaxPunctuation": {
+      "dark": "phosphorDim",
+      "light": "phosphorDim"
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "pcbDeep": "#04140F",
+    "pcbMask": "#073B29",
+    "pcbTrace": "#11B978",
+    "chipBlack": "#090B0D",
+    "chipTop": "#15191D",
+    "chipEdge": "#252B2F",
+    "pinDark": "#6F7774",
+    "solder": "#BFCBC6",
+    "solderBright": "#E1E9E5",
+    "ceramic": "#B8795F",
+    "copper": "#C8844E",
+    "resistorInk": "#D5B45A",
+    "silkscreen": "#8C9992",
+    "text": "#DDEBE5",
+    "muted": "#6F8479",
+    "error": "#D1666A",
+    "success": "#11B978",
+    "warning": "#D5B45A",
+    "info": "#BFCBC6"
+  },
+  "theme": {
+    "primary": {
+      "dark": "ceramic",
+      "light": "ceramic"
+    },
+    "secondary": {
+      "dark": "solder",
+      "light": "chipTop"
+    },
+    "accent": {
+      "dark": "copper",
+      "light": "copper"
+    },
+    "error": {
+      "dark": "error",
+      "light": "error"
+    },
+    "warning": {
+      "dark": "warning",
+      "light": "warning"
+    },
+    "success": {
+      "dark": "success",
+      "light": "success"
+    },
+    "info": {
+      "dark": "info",
+      "light": "info"
+    },
+    "text": {
+      "dark": "text",
+      "light": "chipBlack"
+    },
+    "textMuted": {
+      "dark": "muted",
+      "light": "muted"
+    },
+    "background": {
+      "dark": "pcbDeep",
+      "light": "text"
+    },
+    "backgroundPanel": {
+      "dark": "chipBlack",
+      "light": "solderBright"
+    },
+    "backgroundElement": {
+      "dark": "chipTop",
+      "light": "solder"
+    },
+    "border": {
+      "dark": "pinDark",
+      "light": "pinDark"
+    },
+    "borderActive": {
+      "dark": "solderBright",
+      "light": "pcbTrace"
+    },
+    "borderSubtle": {
+      "dark": "chipEdge",
+      "light": "solder"
+    },
+    "diffAdded": {
+      "dark": "success",
+      "light": "success"
+    },
+    "diffRemoved": {
+      "dark": "error",
+      "light": "error"
+    },
+    "diffContext": {
+      "dark": "silkscreen",
+      "light": "silkscreen"
+    },
+    "diffHunkHeader": {
+      "dark": "solder",
+      "light": "chipEdge"
+    },
+    "diffHighlightAdded": {
+      "dark": "pcbTrace",
+      "light": "pcbMask"
+    },
+    "diffHighlightRemoved": {
+      "dark": "error",
+      "light": "error"
+    },
+    "diffAddedBg": {
+      "dark": "#08271C",
+      "light": "#DFF4EA"
+    },
+    "diffRemovedBg": {
+      "dark": "#2B1114",
+      "light": "#F8E2E4"
+    },
+    "diffContextBg": {
+      "dark": "chipBlack",
+      "light": "solderBright"
+    },
+    "diffLineNumber": {
+      "dark": "pinDark",
+      "light": "pinDark"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "#08271C",
+      "light": "#DFF4EA"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "#2B1114",
+      "light": "#F8E2E4"
+    },
+    "markdownText": {
+      "dark": "text",
+      "light": "chipBlack"
+    },
+    "markdownHeading": {
+      "dark": "solderBright",
+      "light": "chipBlack"
+    },
+    "markdownLink": {
+      "dark": "pcbTrace",
+      "light": "pcbMask"
+    },
+    "markdownLinkText": {
+      "dark": "copper",
+      "light": "copper"
+    },
+    "markdownCode": {
+      "dark": "resistorInk",
+      "light": "chipEdge"
+    },
+    "markdownBlockQuote": {
+      "dark": "silkscreen",
+      "light": "silkscreen"
+    },
+    "markdownEmph": {
+      "dark": "ceramic",
+      "light": "ceramic"
+    },
+    "markdownStrong": {
+      "dark": "solderBright",
+      "light": "chipBlack"
+    },
+    "markdownHorizontalRule": {
+      "dark": "pinDark",
+      "light": "pinDark"
+    },
+    "markdownListItem": {
+      "dark": "pcbTrace",
+      "light": "pcbMask"
+    },
+    "markdownListEnumeration": {
+      "dark": "solderBright",
+      "light": "chipBlack"
+    },
+    "markdownImage": {
+      "dark": "copper",
+      "light": "copper"
+    },
+    "markdownImageText": {
+      "dark": "solderBright",
+      "light": "chipBlack"
+    },
+    "markdownCodeBlock": {
+      "dark": "text",
+      "light": "chipBlack"
+    },
+    "syntaxComment": {
+      "dark": "silkscreen",
+      "light": "silkscreen"
+    },
+    "syntaxKeyword": {
+      "dark": "pcbTrace",
+      "light": "pcbMask"
+    },
+    "syntaxFunction": {
+      "dark": "solderBright",
+      "light": "chipBlack"
+    },
+    "syntaxVariable": {
+      "dark": "text",
+      "light": "chipBlack"
+    },
+    "syntaxString": {
+      "dark": "ceramic",
+      "light": "ceramic"
+    },
+    "syntaxNumber": {
+      "dark": "resistorInk",
+      "light": "resistorInk"
+    },
+    "syntaxType": {
+      "dark": "solder",
+      "light": "chipTop"
+    },
+    "syntaxOperator": {
+      "dark": "copper",
+      "light": "copper"
+    },
+    "syntaxPunctuation": {
+      "dark": "pinDark",
+      "light": "pinDark"
+    }
+  }
+}

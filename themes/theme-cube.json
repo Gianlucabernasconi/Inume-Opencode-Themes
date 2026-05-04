@@ -1,0 +1,226 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "cubeDeep": "#100D24",
+    "cubeShell": "#30236F",
+    "cubePanel": "#211A4A",
+    "cubeEdge": "#4D3BA0",
+    "discBlack": "#101014",
+    "ventBlack": "#07070A",
+    "portGray": "#D8D8D2",
+    "buttonWhite": "#F1F1EC",
+    "logoText": "#E8E6F2",
+    "engraved": "#746AA7",
+    "muted": "#8B83A8",
+    "buttonA": "#00A86B",
+    "buttonB": "#D82938",
+    "buttonC": "#E8B900",
+    "buttonZ": "#CFCFD4",
+    "success": "#00B875",
+    "warning": "#F6C400",
+    "error": "#E72435",
+    "info": "#CFCFD4"
+  },
+  "theme": {
+    "primary": {
+      "dark": "buttonA",
+      "light": "buttonA"
+    },
+    "secondary": {
+      "dark": "buttonZ",
+      "light": "discBlack"
+    },
+    "accent": {
+      "dark": "buttonC",
+      "light": "buttonC"
+    },
+    "error": {
+      "dark": "error",
+      "light": "error"
+    },
+    "warning": {
+      "dark": "warning",
+      "light": "warning"
+    },
+    "success": {
+      "dark": "success",
+      "light": "success"
+    },
+    "info": {
+      "dark": "info",
+      "light": "info"
+    },
+    "text": {
+      "dark": "logoText",
+      "light": "discBlack"
+    },
+    "textMuted": {
+      "dark": "muted",
+      "light": "engraved"
+    },
+    "background": {
+      "dark": "cubeDeep",
+      "light": "buttonWhite"
+    },
+    "backgroundPanel": {
+      "dark": "discBlack",
+      "light": "portGray"
+    },
+    "backgroundElement": {
+      "dark": "cubePanel",
+      "light": "buttonWhite"
+    },
+    "border": {
+      "dark": "cubeEdge",
+      "light": "engraved"
+    },
+    "borderActive": {
+      "dark": "cubeEdge",
+      "light": "discBlack"
+    },
+    "borderSubtle": {
+      "dark": "ventBlack",
+      "light": "portGray"
+    },
+    "diffAdded": {
+      "dark": "success",
+      "light": "success"
+    },
+    "diffRemoved": {
+      "dark": "error",
+      "light": "error"
+    },
+    "diffContext": {
+      "dark": "muted",
+      "light": "engraved"
+    },
+    "diffHunkHeader": {
+      "dark": "buttonZ",
+      "light": "discBlack"
+    },
+    "diffHighlightAdded": {
+      "dark": "buttonA",
+      "light": "buttonA"
+    },
+    "diffHighlightRemoved": {
+      "dark": "buttonB",
+      "light": "buttonB"
+    },
+    "diffAddedBg": {
+      "dark": "#0B3528",
+      "light": "#DDF4EA"
+    },
+    "diffRemovedBg": {
+      "dark": "#351015",
+      "light": "#F9DEE1"
+    },
+    "diffContextBg": {
+      "dark": "discBlack",
+      "light": "portGray"
+    },
+    "diffLineNumber": {
+      "dark": "engraved",
+      "light": "engraved"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "#0B3528",
+      "light": "#DDF4EA"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "#351015",
+      "light": "#F9DEE1"
+    },
+    "markdownText": {
+      "dark": "logoText",
+      "light": "discBlack"
+    },
+    "markdownHeading": {
+      "dark": "buttonWhite",
+      "light": "discBlack"
+    },
+    "markdownLink": {
+      "dark": "buttonZ",
+      "light": "discBlack"
+    },
+    "markdownLinkText": {
+      "dark": "buttonC",
+      "light": "buttonC"
+    },
+    "markdownCode": {
+      "dark": "buttonC",
+      "light": "buttonC"
+    },
+    "markdownBlockQuote": {
+      "dark": "engraved",
+      "light": "engraved"
+    },
+    "markdownEmph": {
+      "dark": "buttonC",
+      "light": "buttonC"
+    },
+    "markdownStrong": {
+      "dark": "buttonWhite",
+      "light": "discBlack"
+    },
+    "markdownHorizontalRule": {
+      "dark": "cubeEdge",
+      "light": "engraved"
+    },
+    "markdownListItem": {
+      "dark": "cubeEdge",
+      "light": "cubeEdge"
+    },
+    "markdownListEnumeration": {
+      "dark": "buttonWhite",
+      "light": "discBlack"
+    },
+    "markdownImage": {
+      "dark": "buttonC",
+      "light": "buttonC"
+    },
+    "markdownImageText": {
+      "dark": "buttonZ",
+      "light": "discBlack"
+    },
+    "markdownCodeBlock": {
+      "dark": "logoText",
+      "light": "discBlack"
+    },
+    "syntaxComment": {
+      "dark": "engraved",
+      "light": "engraved"
+    },
+    "syntaxKeyword": {
+      "dark": "buttonZ",
+      "light": "discBlack"
+    },
+    "syntaxFunction": {
+      "dark": "buttonWhite",
+      "light": "discBlack"
+    },
+    "syntaxVariable": {
+      "dark": "logoText",
+      "light": "discBlack"
+    },
+    "syntaxString": {
+      "dark": "engraved",
+      "light": "engraved"
+    },
+    "syntaxNumber": {
+      "dark": "buttonC",
+      "light": "buttonC"
+    },
+    "syntaxType": {
+      "dark": "buttonZ",
+      "light": "discBlack"
+    },
+    "syntaxOperator": {
+      "dark": "cubeEdge",
+      "light": "cubeEdge"
+    },
+    "syntaxPunctuation": {
+      "dark": "muted",
+      "light": "engraved"
+    }
+  }
+}
