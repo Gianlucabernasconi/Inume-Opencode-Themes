@@ -79,25 +79,25 @@ Click a theme name to open its JSON source file.
 
 Windows 95 teal, gray window chrome, and old desktop UI contrast.
 
-![W95 Classic preview](assets/screenshots/w95-classic-2.webp)
+![W95 Classic preview](assets/screenshots/w95-classic-2.png)
 
 #### [`norton-commander`](themes/norton-commander.json)
 
 Blue terminal panels inspired by the classic file-manager interface.
 
-![Norton Commander preview](assets/screenshots/norton-commander-2.webp)
+![Norton Commander preview](assets/screenshots/norton-commander-2.png)
 
 #### [`ibm-old-terminal`](themes/ibm-old-terminal.json)
 
 Black screen, green phosphor, and minimal IBM terminal atmosphere.
 
-![IBM Old Terminal preview](assets/screenshots/ibm-old-terminal-2.webp)
+![IBM Old Terminal preview](assets/screenshots/ibm-old-terminal-2.png)
 
 #### [`cga`](themes/cga.json)
 
 Early PC color logic with bold cyan, dark contrast, and CGA-era sharpness.
 
-![CGA preview](assets/screenshots/cga-2.webp)
+![CGA preview](assets/screenshots/cga-2.png)
 
 ---
 
@@ -107,37 +107,37 @@ Early PC color logic with bold cyan, dark contrast, and CGA-era sharpness.
 
 Soft PlayStation gray with muted contrast and a classic console surface.
 
-![Theme Station 1 preview](assets/screenshots/theme-station-1-2.webp)
+![Theme Station 1 preview](assets/screenshots/theme-station-1-2.png)
 
 #### [`theme-station-2`](themes/theme-station-2.json)
 
 Dark PS2-inspired palette with deep blacks and electric blue highlights.
 
-![Theme Station 2 preview](assets/screenshots/theme-station-2-1.webp)
+![Theme Station 2 preview](assets/screenshots/theme-station-2-1.png)
 
 #### [`theme-cube`](themes/theme-cube.json)
 
 GameCube purple and console-era saturation with a playful hardware feel.
 
-![Theme Cube preview](assets/screenshots/theme-cube-2.webp)
+![Theme Cube preview](assets/screenshots/theme-cube-2.png)
 
 #### [`family-computheme`](themes/family-computheme.json)
 
 Famicom cream and red, tuned for a warm vintage console look.
 
-![Family Computheme preview](assets/screenshots/family-computheme-2.webp)
+![Family Computheme preview](assets/screenshots/family-computheme-2.png)
 
 #### [`super-theme`](themes/super-theme.json)
 
 Classic SNES gray with restrained purple accents and readable contrast.
 
-![Super Theme preview](assets/screenshots/super-theme-2.webp)
+![Super Theme preview](assets/screenshots/super-theme-2.png)
 
 #### [`super-color`](themes/super-color.json)
 
 SNES multicolor controls translated into a brighter terminal palette.
 
-![Super Color preview](assets/screenshots/super-color-2.webp)
+![Super Color preview](assets/screenshots/super-color-2.png)
 
 ---
 
@@ -147,13 +147,13 @@ SNES multicolor controls translated into a brighter terminal palette.
 
 Circuit-board greens and hardware-lab contrast for a PCB-inspired terminal.
 
-![Silicon Trace preview](assets/screenshots/silicon-trace-2.webp)
+![Silicon Trace preview](assets/screenshots/silicon-trace-2.png)
 
 #### [`faded-neon`](themes/faded-neon.json)
 
 Dim neon glow with worn pink and green accents for late-night sessions.
 
-![Faded Neon preview](assets/screenshots/faded-neon-2.webp)
+![Faded Neon preview](assets/screenshots/faded-neon-2.png)
 
 ---
 
